@@ -1,2 +1,2 @@
-# Me_data
-This is my first repo to track my growth in Data Analytics on Github
+# FIRST DATA ANALYTICS REPO
+You are welcome to view my journey in carrying out first project in Data Analytics
